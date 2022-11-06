@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananth Roy</h1>
-<h3 align="center">A passionate full stack web developer base in Los Angeles, California.</h3>
+<h3 align="center">A passionate full stack web developer based in Los Angeles, California.</h3>
 
 - 🌱 I’m currently learning **Flutter, Java and Python**
 
