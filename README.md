@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananth Roy</h1>
 <h3 align="center">A passionate full stack web developer based in Los Angeles, California.</h3>
 
-- 🌱 I’m currently learning **Flutter, Java and Python**
+- 🌱 I’m currently learning **Java and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aroy1903?tab=repositories](https://github.com/aroy1903?tab=repositories)
 
