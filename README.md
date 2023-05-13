@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ananthroy1903@gmail.com**
 
-- 💼 Click here for my [resume](https://github.com/aroy1903/AnanthRoyResume/blob/main/AR2023RESUME.pdf)
+- 💼 Click here for my [resume](https://github.com/aroy1903/AnanthRoyResume/blob/main/AnanthRoy2023Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
