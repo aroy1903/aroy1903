@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aroy1903?tab=repositories](https://github.com/aroy1903?tab=repositories)
 
-- 💬 Ask me about **JavaScript, React , Express , Firebase**
-
 - 📫 How to reach me **ananthroy1903@gmail.com**
+
+- 💼 Click here for my [resume](https://github.com/aroy1903?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
