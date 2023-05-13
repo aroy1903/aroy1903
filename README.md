@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aroy1903?tab=repositories](https://github.com/aroy1903?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/aroy1903?tab=repositories)
 
 - 📫 How to reach me **ananthroy1903@gmail.com**
 
